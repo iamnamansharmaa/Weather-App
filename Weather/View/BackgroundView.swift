@@ -2,8 +2,8 @@
 //  BackgroundView.swift
 //  Weather
 //
-//  Created by Irfan Rafii Musyafa on 01/04/20.
-//  Copyright © 2020 Irmusyafa. All rights reserved.
+//  Created by Naman Sharma on 01/04/24.
+//  Copyright © 2020 Naman. All rights reserved.
 //
 
 import SwiftUI

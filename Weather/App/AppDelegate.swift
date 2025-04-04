@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Weather
 //
-//  Created by Irfan Rafii Musyafa on 25/03/20.
-//  Copyright © 2020 Irmusyafa. All rights reserved.
+//  Created by Naman Sharma on 25/03/24.
+//  Copyright © 2020 Naman. All rights reserved.
 //
 
 import UIKit
